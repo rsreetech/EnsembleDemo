@@ -1,5 +1,5 @@
 # EnsembleDemo
-In this notebook i give a demo of sklearn ensembles 
+In this notebook i give a demo of scikit-learn ensembles 
 
 Pre-requisites
 
